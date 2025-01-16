@@ -1,0 +1,22 @@
+00:00:00.273995 VirtualBox GUI VM Selector Window 7.0.20_Gentoo r163906 linux.amd64 (Dec 27 2024 05:17:49) release log
+00:00:00.273995 Log opened 2024-12-27T13:31:38.475629000Z
+00:00:00.273996 Build Type: release
+00:00:00.273996 OS Product: Linux
+00:00:00.273997 OS Release: 6.12.7-gentoo-dist
+00:00:00.273997 OS Version: #1 SMP PREEMPT_DYNAMIC Fri Dec 27 03:51:45 PST 2024
+00:00:00.274009 DMI Product Name: 21KC0005US
+00:00:00.274011 DMI Product Version: ThinkPad X1 Carbon Gen 12
+00:00:00.274014 Firmware type: UEFI
+00:00:00.274908 Secure Boot: Disabled
+00:00:00.274922 Host RAM: 31585MB (30.8GB) total, 30763MB (30.0GB) available
+00:00:00.274924 Executable: /usr/lib64/virtualbox/VirtualBox
+00:00:00.274924 Process ID: 3731
+00:00:00.274924 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.274934 Qt version: 5.15.14
+00:00:00.275817 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.279010 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.279016 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.565031 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 2x72 x 716x826
+00:12:00.988161 GUI: UIMediumEnumerator: Medium with key={{a3607485-39ef-44f5-b778-606b33f09ae3}} created
+00:12:01.037419 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:03.497948 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,13 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/MC3301.PDF
+Name1[$e]=MC3301.PDF

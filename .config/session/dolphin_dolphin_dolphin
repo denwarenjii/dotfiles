@@ -1,0 +1,9 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00&file:///home/chris/Music/music_arch(2)\x00\x00\x00\x00\x01\x00\x00\x01\x16file:///home/chris/Music/music_arch(2)/%20Various%20%E2%80%8E%E2%80%93%20Super%20Shot%205%20Special%20Edition%20-%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E2%80%90%20\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\xe1\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1

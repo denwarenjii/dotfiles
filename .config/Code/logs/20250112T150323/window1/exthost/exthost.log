@@ -1,0 +1,40 @@
+2025-01-12 15:03:24.244 [info] Extension host with pid 14817 started
+2025-01-12 15:03:24.301 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-12 15:03:24.345 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-12 15:03:24.347 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-12 15:03:24.394 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-12 15:03:24.449 [info] Eager extensions activated
+2025-01-12 15:03:24.456 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 15:03:24.458 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-12 15:03:25.325 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-12 15:03:25.345 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new IT (file:///opt/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:110702)
+	at Dy.U (file:///opt/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115312)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///opt/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112806)
+	at V0.loadCertificates (file:///opt/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:54217)
+	at Object.loadAdditionalCertificates (file:///opt/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:18326)
+	at /opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:697:53
+	at Generator.next (<anonymous>)
+	at /opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at /opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:696:43
+	at /opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:698:16
+	at Generator.next (<anonymous>)
+	at /opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:694:12)
+	at addCertificatesToOptionsV1 (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:673:9)
+	at resolveProxyWithRequest (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:114:9)
+	at /opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:77
+	at new Promise (<anonymous>)
+	at PacProxyAgent.resolveP [as resolver] (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:54)
+	at PacProxyAgent.<anonymous> (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:74:37)
+	at Generator.next (<anonymous>)
+	at /opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:4:12)
+	at PacProxyAgent.connect (/opt/vscode/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:56:16)
+	at /opt/vscode/resources/app/node_modules/agent-base/dist/index.js:132:30
+2025-01-12 15:03:25.345 [info] Extension host with pid 14817 exiting with code 0

@@ -1,0 +1,40 @@
+2024-10-11T22:14:59.959Z 0: 
+
+----------------------------------------------
+2024-10-11T22:14:59.963Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.70"}, modulepath: /home/chris/.config/discord/0.0.70/modules
+2024-10-11T22:14:59.967Z 2: ✅ webContents.created web1 ""
+2024-10-11T22:14:59.968Z 3: ✅ window.created win1 "discord"
+2024-10-11T22:15:00.092Z 4: ✅ webContents.did-finish-load web1
+2024-10-11T22:15:03.964Z 5: before-quit
+2024-10-11T23:39:06.835Z 0: 
+
+----------------------------------------------
+2024-10-11T23:39:06.841Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.70"}, modulepath: /home/chris/.config/discord/0.0.70/modules
+2024-10-11T23:39:06.843Z 2: ✅ webContents.created web1 ""
+2024-10-11T23:39:06.844Z 3: ✅ window.created win1 "discord"
+2024-10-11T23:39:07.022Z 4: ✅ webContents.did-finish-load web1
+2024-10-11T23:39:09.274Z 5: before-quit
+2024-10-11T23:39:15.203Z 0: 
+
+----------------------------------------------
+2024-10-11T23:39:15.217Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.70"}, modulepath: /home/chris/.config/discord/0.0.70/modules
+2024-10-11T23:39:15.218Z 2: ✅ webContents.created web1 ""
+2024-10-11T23:39:15.219Z 3: ✅ window.created win1 "discord"
+2024-10-11T23:39:15.357Z 4: ✅ webContents.did-finish-load web1
+2024-10-11T23:39:17.710Z 5: before-quit
+2024-10-11T23:42:59.660Z 0: 
+
+----------------------------------------------
+2024-10-11T23:42:59.672Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.70"}, modulepath: /home/chris/.config/discord/0.0.70/modules
+2024-10-11T23:42:59.674Z 2: ✅ webContents.created web1 ""
+2024-10-11T23:42:59.675Z 3: ✅ window.created win1 "discord"
+2024-10-11T23:42:59.834Z 4: ✅ webContents.did-finish-load web1
+2024-10-11T23:43:02.333Z 5: before-quit
+2024-10-12T01:50:05.627Z 0: 
+
+----------------------------------------------
+2024-10-12T01:50:05.640Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.70"}, modulepath: /home/chris/.config/discord/0.0.70/modules
+2024-10-12T01:50:05.642Z 2: ✅ webContents.created web1 ""
+2024-10-12T01:50:05.644Z 3: ✅ window.created win1 "discord"
+2024-10-12T01:50:05.786Z 4: ✅ webContents.did-finish-load web1
+2024-10-12T01:50:08.906Z 5: before-quit
